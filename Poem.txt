@@ -12,3 +12,4 @@ Now in Unicorn brach
 Unicorn tail
 Unicorn nose
 In Master
+New Line in Master
